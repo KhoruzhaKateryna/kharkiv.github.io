@@ -143,7 +143,7 @@ h5 {
 }
 
 
-/* headr
+/* header
 ==================================================*/
 
 .box-header {
@@ -1086,7 +1086,7 @@ textarea:focus {
 }
 
 
-/* single project page
+/* places project page
 ==================================================*/
 
 .cat-ul {
@@ -1100,7 +1100,7 @@ textarea:focus {
 }
 
 
-/* Responsive media queries
+/* Responsive media
 ==================================================*/
 
 @media (max-width: 991px) {
